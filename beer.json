@@ -1,0 +1,170 @@
+{
+    "1": {
+        "Type": "Lager",
+        "Style Number": "1A",
+        "StyleName": "American Light Lager",
+        "OG": "1.028 - 1.040",
+        "IBUs": "8 - 12",
+        "FG": "0.998 - 1.008",
+        "SRM": "2 - 3",
+        "ABV": "2.8 - 4.2%",
+        "Notes": {
+            "OverallImpression": "Highly carbonated, very light-bodied nearly flavorless lager designed to be consumed very cold. Very refreshing and thirst quenching.",
+            "Aroma": "Low to no malt aroma, although it can be perceived as grainy, sweet, or corn-like if present. Hop aroma is light to none, with a spicy or floral hop character if present. While a clean fermentation character is desirable, a light amount of yeast character is not a fault."
+        }
+    },
+    "2": {
+        "Type": "Lager",
+        "Style Number": "1B",
+        "StyleName": "American Lager",
+        "OG": "1.040 - 1.050",
+        "IBUs": "8 - 18",
+        "FG": "1.004 - 1.010",
+        "SRM": "2 - 4",
+        "ABV": "4.2 - 5.3%",
+        "Notes": {
+            "OverallImpression": "A very pale, highly carbonated, light bodied, well attenuated lager with a very neutral flavor profile and low bitterness. Served very cold, it can be a very refreshing  and thirst quenching drink.",
+            "Aroma": "Low to no malt aroma, although it can be perceived as grainy, sweet or corn-like if present. Hop aroma may range from none to light, spicy, or floral hop presence. While a clean fermentation character is desirable, a light amount of yeast character is not a fault."
+        }
+    },
+    "3": {
+        "Type": "Lager",
+        "Style Number": "1C",
+        "StyleName": "Cream Ale",
+        "OG": "1.042 – 1.055",
+        "IBUs": "8 – 20",
+        "FG": "1.006 – 1.012",
+        "SRM": "2.5 – 5",
+        "ABV": "4.2 – 5.6%",
+        "Notes": {
+            "OverallImpression": "A clean, well-attenuated, flavorful American “lawnmower” beer. Easily drinkable and refreshing, with more character than typical American lagers.",
+            "Aroma": "Medium-low to low malt notes, with a sweet, corn-like aroma. Low levels of DMS are allowable, but are not BJCP Beer Style Guidelines – 2015 Edition required. Hop aroma medium low to none, and can be of any variety although floral, spicy, or herbal notes are most common. Overall, a subtle aroma with neither hops nor malt dominating. Low fruity esters are optional."
+        }
+    },
+    "4": {
+        "Type": "Lager",
+        "Style Number": "1D",
+        "StyleName": "American Wheat Beer",
+        "OG": "1.040 – 1.055",
+        "IBUs": "15 – 30",
+        "FG": "1.008 – 1.013",
+        "SRM": "3 – 6",
+        "ABV": "4.0 – 5.5%",
+        "Notes": {
+            "OverallImpression": "Refreshing wheat beers that can display more hop character and less yeast character than their German cousins. A clean fermentation character allows bready, doughy, or grainy wheat flavors to be complemented by hop flavor and bitterness rather than yeast qualities.",
+            "Aroma": "Low to moderate grainy, bready, or doughy wheat character. A light to moderate malty sweetness is acceptable. Esters can be moderate to none, although should reflect relatively neutral yeast strains; banana is inappropriate. Hop aroma may be low to moderate, and can have a citrusy, spicy, floral, or fruity character. No clove phenols."
+        }
+    },
+    "5": {
+        "Type": "Lager",
+        "Style Number": "2A",
+        "StyleName": "International Pale Lager",
+        "OG": "1.042 – 1.050",
+        "IBUs": "18 – 25",
+        "FG": "1.008 – 1.012",
+        "SRM": "2 – 6",
+        "ABV": "4.6 – 6.0%",
+        "Notes": {
+            "OverallImpression": "A highly-attenuated pale lager without strong flavors, typically well-balanced and highly carbonated. Served cold, it is refreshing and thirst-quenching.",
+            "Aroma": "Low to medium-low malt aroma, which can be grainy- malty or slightly corny-sweet. Hop aroma may range from very low to a medium, spicy or floral hop presence. While a clean fermentation profile is generally most desirable, low levels of yeast character (such as a light apple fruitiness) are not a fault. A light amount of DMS or corn aroma is not a fault."
+        }
+    },
+    "6": {
+        "Type": "Lager",
+        "Style Number": "2B",
+        "StyleName": "International Amber Lager",
+        "OG": "1.042 – 1.055",
+        "IBUs": "8 – 25",
+        "FG": "1.008 – 1.014",
+        "SRM": "7 – 14",
+        "ABV": "4.6 – 6.0%",
+        "Notes": {
+            "OverallImpression": "A well-attenuated malty amber lager with an interesting caramel or toast quality and restrained bitterness. Usually fairly well-attenuated, often with an adjunct quality. Smooth, easily-drinkable lager character.",
+            "Aroma": "Low to moderate malt aroma which can be grainy, with a very low to moderate caramel-sweet to toasty-malty aroma. Hop aroma can range from low to none with a mildly floral or spicy character. Clean lager profile. A slight DMS or corny aroma is acceptable."
+        }
+    },
+    "7": {
+        "Type": "Lager",
+        "Style Number": "2C",
+        "StyleName": "International Dark Lager",
+        "OG": "1.044 – 1.056",
+        "IBUs": "8 – 20",
+        "FG": "1.008 – 1.012",
+        "SRM": "14 – 22",
+        "ABV": "4.2 – 6.0%",
+        "Notes": {
+            "OverallImpression": "A darker and somewhat sweeter version of international pale lager with a little more body and flavor, but equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels provide very little in the way of balance.",
+            "Aroma": "Little to no malt aroma; may have a light corn character. Medium-low to no roast and caramel malt aroma. Hop aroma may range from none to light spicy or floral hop presence. While a clean fermentation profile is generally most desirable, low levels of yeast character (such as a light apple fruitiness) are not a fault. A light amount of DMS or corn aroma is not a fault."
+        }
+    },
+    "8": {
+        "Type": "Lager",
+        "Style Number": "3A",
+        "StyleName": "Czech Pale Lager",
+        "OG": "1.028 – 1.044",
+        "IBUs": "20 – 35",
+        "FG": "1.008 – 1.014",
+        "SRM": "3 – 6",
+        "ABV": "3.0 – 4.1%",
+        "Notes": {
+            "OverallImpression": "A lighter-bodied, rich, refreshing, hoppy, bitter pale Czech lager having the familiar flavors of the stronger Czech Premium Pale Lager (Pilsner-type) beer but in a lower alcohol, lighter-bodied, and slightly less intense format.",
+            "Aroma": "Light to moderate bready-rich malt combined with light to moderate spicy or herbal hop bouquet; the balance between the malt and hops may vary. Faint hint of caramel is acceptable. Light (but never intrusive) diacetyl and light, fruity hop-derived esters are acceptable, but need not be present. No sulfur."
+        }
+    },
+    "9": {
+        "Type": "Lager",
+        "Style Number": "3B",
+        "StyleName": "Czech Premium Pale Lager",
+        "OG": "1.044 – 1.060",
+        "IBUs": "30 – 45",
+        "FG": "1.013 – 1.017",
+        "SRM": "3.5 – 6",
+        "ABV": "4.2 – 5.8%",
+        "Notes": {
+            "OverallImpression": "Rich, characterful, pale Czech lager, with considerable malt and hop character and a long, rounded finish. Complex yet well-balanced and refreshing. The malt flavors are complex for a Pilsner-type beer, and the bitterness is strong but clean and without harshness, which gives a rounded impression that enhances drinkability.",
+            "Aroma": "Medium to medium-high bready-rich malt and medium-low to medium-high spicy, floral, or herbal hop bouquet; though the balance between the malt and hops may vary, the interplay is rich and complex. Light diacetyl, or very low fruity hop-derived esters are acceptable, but need not be present."
+        }
+    },
+    "10": {
+        "Type": "Lager",
+        "Style Number": "3C",
+        "StyleName": "Czech Amber Lager",
+        "OG": "1.044 – 1.060",
+        "IBUs": "20 – 35",
+        "FG": "1.013 – 1.017",
+        "SRM": "10 – 16",
+        "ABV": "4.4 – 5.8%",
+        "Notes": {
+            "OverallImpression": "Malt-driven amber Czech lager with hop character that can vary from low to quite significant. The malt flavors can vary quite a bit, leading to different interpretations ranging from drier, bready, and slightly biscuity to sweeter and somewhat caramelly.",
+            "Aroma": "Moderate intensity, rich malt aroma that can be either bready and Maillard product-dominant or slightly caramelly and candy-like. Spicy, floral or herbal hop character may be moderate to none. Clean lager character, though low fruity esters (stone fruit or berries) may be present. Diacetyl is optional and can range from low to none."
+        }
+    },
+    "11": {
+        "Type": "Lager",
+        "Style Number": "3D",
+        "StyleName": "Czech Dark Lager",
+        "OG": "1.044 – 1.060",
+        "IBUs": "18 – 34",
+        "FG": "1.013 – 1.017",
+        "SRM": "14 – 35",
+        "ABV": "4.4 – 5.8%",
+        "Notes": {
+            "OverallImpression": "A rich, dark, malty Czech lager with a roast character that can vary from almost absent to quite prominent. Malty with an interesting and complex flavor profile, with variable levels of hopping providing a range of possible interpretations.",
+            "Aroma": "Medium to medium-high rich, deep, sometimes sweet maltiness, with optional qualities such as bread crusts, toast, nuts, cola, dark fruit, or caramel. Roasted malt characters such as chocolate or sweetened coffee can vary from moderate to none but should not overwhelm the base malt character. Low, spicy hop aroma is optional. Low diacetyl and low fruity esters (plums or berries) may be present."
+        }
+    },
+    "12": {
+        "Type": "Ale",
+        "Style Number": "9C",
+        "StyleName": "Baltic Porter",
+        "OG": "1.060 – 1.090",
+        "IBUs": "20 – 40",
+        "FG": "1.016 – 1.024",
+        "SRM": "17 – 30",
+        "ABV": "6.5 – 9.5%",
+        "Notes": {
+            "OverallImpression": "A Baltic Porter often has the malt flavors reminiscent of an English porter and the restrained roast of a schwarzbier, but with a higher OG and alcohol content than either. Very complex, with multi-layered malt and dark fruit flavors.",
+            "Aroma": "Rich malty sweetness often containing caramel, toffee, nutty to deep toast, and/or licorice notes. Complex alcohol and ester profile of moderate strength, and reminiscent of plums, prunes, raisins, cherries or currants, occasionally with a vinous Port-like quality. Some darker malt character that is deep chocolate, coffee or molasses but never burnt. No hops. No sourness. Very smooth."
+        }
+    }
+}
